@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericslvdev
-- 👀 I’m interested in ... Learn and evolve as a programmer.
+- 👀 I’m interested in ... Learn and evolve as a developer.
 - 🌱 I’m currently learning ... HTML CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Instagram: eric.slv00
